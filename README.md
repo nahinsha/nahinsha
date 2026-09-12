@@ -38,23 +38,35 @@ I'm a Full-Stack Developer working with Python, Django, Django REST Framework, a
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏥 Hospital Management System
+
 **Django REST Framework · React.js · JWT**
 
 Full-stack hospital management system with REST APIs,
 authentication, appointments, prescriptions, medicines, and billing.
 
-🔗 [View Repository](YOUR_GITHUB_REPO_LINK)
+[View Repository →](YOUR_HOSPITAL_REPO_LINK)
 
----
+</td>
+
+<td width="50%">
 
 ### 🛒 E-Commerce Web Application
+
 **Django · Python · JavaScript · MySQL**
 
 Database-driven e-commerce application with product management,
 shopping cart, orders, and backend business logic.
 
-🔗 [View Repository](YOUR_GITHUB_REPO_LINK)
+[View Repository →](YOUR_ECOMMERCE_REPO_LINK)
+
+</td>
+</tr>
+</table>
 
 ---
 
