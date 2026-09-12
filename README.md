@@ -22,12 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring Software Engineer focused on building practical web
-applications and backend systems.
-
-I work with Python, Django, Django REST Framework, React.js, JavaScript,
-SQL, and MySQL, with a focus on REST API development, database-driven
-applications, authentication, and real-world problem solving.
+I'm a Full-Stack Developer working with Python, Django, Django REST Framework, and React.js. I build REST APIs and database-driven web applications.
 
 ---
 
