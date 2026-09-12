@@ -1,6 +1,6 @@
 # Hi, I'm Nahin 👋
 
-### Aspiring Software Engineer | Python & Django Developer | React Developer
+### Python & Django Developer | React Developer
 
 I'm a Computer Science & Engineering graduate interested in building practical web applications and real-world software systems.
 
