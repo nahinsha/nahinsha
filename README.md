@@ -28,33 +28,22 @@ I'm a Full-Stack Developer working with Python, Django, Django REST Framework, a
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=python,js" />
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django" />
-</p>
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=django" />
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### Concepts
-`SQL` · `REST APIs` · `JWT Authentication` · `OOP`
+**Concepts:** `SQL` · `REST APIs` · `JWT Authentication` · `OOP`
 
 ---
 
