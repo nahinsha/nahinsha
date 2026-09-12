@@ -2,7 +2,7 @@
 
 # Hi, I'm Nahin 👋
 
-### Aspiring Software Engineer | Python & Django Developer | React Developer
+### Python & Django Developer | React Developer
 
 <p>
   <a href="https://shahariar-nahin-portfolio.vercel.app/">
