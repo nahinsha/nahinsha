@@ -72,17 +72,33 @@ shopping cart, orders, and backend business logic.
 
 ## 📚 Publications
 
-### A Comparative Analysis of Machine Learning Algorithms for Predicting Student Academic Performance
+<table>
+<tr>
+<td width="50%">
 
-Journal of Data Analytics and Intelligence · 2026
+### 📄 Student Academic Performance
 
-[Read Publication](https://journal.tekigate.com/jdai/archive/v2i1/a5.html)
+**A Comparative Analysis of Machine Learning Algorithms for Predicting Student Academic Performance**
 
-### Empowering Aging Communities: The Role of AI-Driven Assistive Technologies in Fostering Independent Living
+*Journal of Data Analytics and Intelligence · 2026*
 
-Proceedings of the XIII International Scientific Conference · 2025
+[Read Publication →](https://journal.tekigate.com/jdai/archive/v2i1/a5.html)
 
-[Read Publication](https://eubd.edu.ba/MNS/TOM%20II%20B512.pdf)
+</td>
+
+<td width="50%">
+
+### 📄 AI-Driven Assistive Technologies
+
+**Empowering Aging Communities: The Role of AI-Driven Assistive Technologies in Fostering Independent Living**
+
+*XIII International Scientific Conference · 2025*
+
+[Read Publication →](https://eubd.edu.ba/MNS/TOM%20II%20B512.pdf)
+
+</td>
+</tr>
+</table>
 
 ---
 
