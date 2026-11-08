@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm Nahin 👋
 
@@ -24,11 +24,13 @@ Building practical, user-focused web applications.
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering graduate with an interest in full-stack software development.
+I'm a Computer Science & Engineering graduate focused on backend and full-stack web development.
 
 I primarily work with **Python, Django, Django REST Framework, and React.js** to build REST APIs and database-driven web applications.
 
-I enjoy solving practical problems, developing user-friendly solutions, and continuously improving my software engineering skills.
+Alongside software development, I have experience in academic research and publications, particularly in machine learning and technology-focused research.
+
+I enjoy solving practical problems, building user-friendly solutions, and continuously improving my software engineering skills.
 
 ---
 
@@ -46,7 +48,7 @@ I enjoy solving practical problems, developing user-friendly solutions, and cont
 
 <img src="https://skillicons.dev/icons?i=django" height="35" />
 
-**Database**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="35" />
 
@@ -54,30 +56,63 @@ I enjoy solving practical problems, developing user-friendly solutions, and cont
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35" />
 
-**Concepts:** `REST APIs` · `JWT Authentication` · `OOP` · `SQL`
+**Concepts:** `OOP` · `Data Structures & Algorithms` · `REST API Design` · `JWT Authentication` · `CRUD Operations` · `SQL`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 BasaChai — Rental Housing Platform
+### 🏠 BasaChai — Rental House-Hunting Platform
 
-**Python · Django REST Framework · React.js · PostgreSQL**
+**Python · Django REST Framework · React.js · PostgreSQL · JWT**
 
-A web-based rental housing platform designed to simplify house hunting in Dhaka, Bangladesh.
+A full-stack rental housing platform designed to simplify house hunting in Dhaka, Bangladesh.
 
 - Browse and explore rental properties.
-- Filter and evaluate property details.
-- Save preferred homes and compare up to three properties.
-- Communicate with property owners.
+- Shortlist and compare properties.
+- Communicate with property owners through messaging.
 - Submit and manage property viewing requests.
-- Separate dashboards for seekers, owners, and administrators.
+- Role-based access for seekers, owners, and administrators.
+- REST APIs secured with JWT authentication.
 
 **Links:** [GitHub Repository](https://github.com/nahinsha/BashaChai) · [Live Demo](https://basha-chai-xi.vercel.app/)
 
 ---
 
+### 🎓 NahinEdify — Learning Management System
+
+**Python · Django REST Framework · React.js · Tailwind CSS · JWT**
+
+A role-based learning management system with Admin, Teacher, and Student roles.
+
+- JWT authentication and role-based access.
+- REST APIs for courses, assignments, submissions, and grading.
+
+**Links:** [GitHub Repository](https://github.com/nahinsha/NahinEdify/)
+
+---
+
+### 🛒 E-Commerce Web Application
+
+**Python · Django · HTML · CSS · JavaScript · MySQL**
+
+An e-commerce web application with product, category, customer, cart, and order management.
+
+- CRUD functionality with MySQL database integration.
+
+**Links:** [GitHub Repository](https://github.com/nahinsha/E-commerce/)
+
+---
+
 ## 📚 Publications
+
+### 📄 Ethical Data Mining in Healthcare
+
+**Ethical Data Mining in Healthcare: Toward a Professionally Grounded Framework**
+
+*Academic Journal of Information Technology · Vol. 17, Issue 1 · 2026*
+
+[Read Publication →](https://dergipark.org.tr/tr/pub/ajit-e/article/1796488)
 
 ### 📄 Student Academic Performance
 
@@ -94,6 +129,14 @@ A web-based rental housing platform designed to simplify house hunting in Dhaka,
 *XIII International Scientific Conference · 2025*
 
 [Read Publication →](https://eubd.edu.ba/MNS/TOM%20II%20B512.pdf)
+
+---
+
+## 🎓 Education & Experience
+
+- **B.Sc. in Computer Science & Engineering**, Presidency University (2021 – 2025)
+- **Teaching Assistant**, Presidency University (October 2024 – May 2025)
+- **Joint Secretary**, Presidency University Social Services Club (2024 – 2025)
 
 ---
 
