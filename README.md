@@ -1,8 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Nahin 👋
 
 ### Full-Stack Developer | Python, Django & React.js
+
+Building practical, user-focused web applications.
 
 <p>
   <a href="https://shahariar-nahin-portfolio.vercel.app/">
@@ -22,59 +24,60 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer working with Python, Django, Django REST Framework, and React.js. I build REST APIs and database-driven web applications.
+I'm a Computer Science and Engineering graduate with an interest in full-stack software development.
+
+I primarily work with **Python, Django, Django REST Framework, and React.js** to build REST APIs and database-driven web applications.
+
+I enjoy solving practical problems, developing user-friendly solutions, and continuously improving my software engineering skills.
 
 ---
+
 ## 🛠️ Tech Stack
 
-**Languages:** <img src="https://skillicons.dev/icons?i=python,js" height="35" /> &nbsp;&nbsp;
-**Frontend:** <img src="https://skillicons.dev/icons?i=html,css,react" height="35" /> &nbsp;&nbsp;
-**Backend:** <img src="https://skillicons.dev/icons?i=django" height="35" /> &nbsp;&nbsp;
-**Database:** <img src="https://skillicons.dev/icons?i=mysql" height="35" /> &nbsp;&nbsp;
-**Tools:** <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35" /> &nbsp;&nbsp;
-**Concepts:** `SQL` · `REST APIs` · `JWT` · `OOP`
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js" height="35" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react" height="35" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=django" height="35" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" height="35" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="35" />
+
+**Concepts:** `REST APIs` · `JWT Authentication` · `OOP` · `SQL`
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🏠 BasaChai — Rental Housing Platform
 
-### 🏥 Hospital Management System
+**Python · Django REST Framework · React.js · PostgreSQL**
 
-**Django REST Framework · React.js · JWT**
+A web-based rental housing platform designed to simplify house hunting in Dhaka, Bangladesh.
 
-Full-stack hospital management system with REST APIs,
-authentication, appointments, prescriptions, medicines, and billing.
+- Browse and explore rental properties.
+- Filter and evaluate property details.
+- Save preferred homes and compare up to three properties.
+- Communicate with property owners.
+- Submit and manage property viewing requests.
+- Separate dashboards for seekers, owners, and administrators.
 
-[View Repository →](YOUR_HOSPITAL_REPO_LINK)
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce Web Application
-
-**Django · Python · JavaScript · MySQL**
-
-Database-driven e-commerce application with product management,
-shopping cart, orders, and backend business logic.
-
-[View Repository →](YOUR_ECOMMERCE_REPO_LINK)
-
-</td>
-</tr>
-</table>
+**Links:** [GitHub Repository](https://github.com/nahinsha/BashaChai) · [Live Demo](https://basha-chai-xi.vercel.app/)
 
 ---
 
 ## 📚 Publications
-
-<table>
-<tr>
-<td width="50%">
 
 ### 📄 Student Academic Performance
 
@@ -84,10 +87,6 @@ shopping cart, orders, and backend business logic.
 
 [Read Publication →](https://journal.tekigate.com/jdai/archive/v2i1/a5.html)
 
-</td>
-
-<td width="50%">
-
 ### 📄 AI-Driven Assistive Technologies
 
 **Empowering Aging Communities: The Role of AI-Driven Assistive Technologies in Fostering Independent Living**
@@ -95,10 +94,6 @@ shopping cart, orders, and backend business logic.
 *XIII International Scientific Conference · 2025*
 
 [Read Publication →](https://eubd.edu.ba/MNS/TOM%20II%20B512.pdf)
-
-</td>
-</tr>
-</table>
 
 ---
 
